@@ -59,8 +59,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-xl font-bold text-green-700">Contact Us</h2>
           <p className="text-gray-600 mt-2">
-            Have questions or want to learn more about Komarika? Reach out to
-            us!
+            Have questions or want to buy Komarika pots? Reach out to us!
           </p>
           <div className="flex justify-center items-center gap-4 mt-4">
             <a
@@ -74,7 +73,7 @@ export default function Home() {
               href="tel:+123456789"
               className="text-green-600 hover:text-green-800"
             >
-              Phone: 0715377088
+              Phone: 0715377088 / 0773723863
             </a>
           </div>
         </div>
